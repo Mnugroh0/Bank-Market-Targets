@@ -1,6 +1,6 @@
 # Bank-Market-Targets
 
-This project was inspired by a bank's desire to find an efficient approach to persuade clients to make deposits because deposits are their main source of income. Telephone outreach has been proven to be the most successful of the several outreach techniques utilized, but it is also very expensive. In order to lower the cost of telephone campaigns and increase the number of depositing clients, this project tries to identify customers who are more likely to make a deposit. 
+This project was inspired by a bank's desire to find an efficient approach to persuade clients to make deposits because deposits are their main source of income. Telephone outreach has been proven to be the most successful of the several outreach techniques utilized, but it is also very expensive. In order to lower the cost of telephone campaigns and increase the number of depositing clients, this project tries to identify customers who are more likely to take a deposit. 
 
 **Workflow used in this project:**
 1. Taking a quick look at the data.
