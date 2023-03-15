@@ -4,15 +4,15 @@ This project was inspired by a bank's desire to find an efficient approach to pe
 
 **Workflow used in this project:**
 1. Taking a quick look at the data.
-2. performing exploratory data analysis. 
+2. Performing exploratory data analysis. 
 3. Prepare the data for Machine Learning Models. 
 4. Splitting data. 
-5. creating a benchmark model. 
+5. Creating a benchmark model. 
 6. Feature engineering.
 7. Handling imbalanced datasets.  
 8. Tuning the model. 
 9. Features Importances. 
-10. Features Selection 
-11. Evaluate Model
+10. Features Selection. 
+11. Evaluate Model.
 
 Even if the precision and recall ratings for this project may not have been very high, they might still be higher. However, the total ROC-AUC score of 92% shows that the model is performing well in separating positive and negative cases.
